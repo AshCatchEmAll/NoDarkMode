@@ -1,9 +1,9 @@
 
 
-# <div align="center"><h1>No Dark Mode 🌙</h1></div>
+# <div align="center"><h3>No Dark Mode 🌙</h3></div>
 
 
-<div align="center"><h2>Silly website that won't allow dark mode</h2></div>
+<div align="center"><h3>Silly website that won't allow dark mode</h3></div>
 
 <div align="center"><img src ="logo.png" style="vertical-align:middle"></div>
 
