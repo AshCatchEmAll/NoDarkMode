@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=1l8UnV8nD60
 
 ## Run the app
 1. Clone the project
-2. run npm i 
-3. run npm start
+2. Run ```npm i ```
+3. Run ```npm start```
 
 
