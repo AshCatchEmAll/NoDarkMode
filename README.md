@@ -7,8 +7,10 @@
 
 <div align="center"><img src ="logo.png" style="vertical-align:middle"></div>
 
+## Check the website at : 
+
 ```
-Check out the website at : https://nodarkmode.web.app/
+https://nodarkmode.web.app/
 ```
 
 
